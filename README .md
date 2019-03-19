@@ -10,3 +10,7 @@ This repository contains our research into planets. our research questions are:
    - question 2 a
    - question 2 b 
 * Question 3 
+
+---
+Contact us for suggestion on how you can help!
+---
